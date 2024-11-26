@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5eec9f25-21ca-408f-abcf-6e29ffd5daf0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/disc/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03/src/AimsProject/src/hust/soict/globalict/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2n8VkiJeVkos1Wkft09vJlff6YU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aims.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/demonstrate-release-flow",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/bun/Documents/Coder/OOP_Lab_IT3100E",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/bun/Documents/Coder/OOP_Lab_IT3100E/Lab02/AimsProject/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab02/AimsProject" />
+      <recent name="$PROJECT_DIR$/Lab02/AimsProject/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aims" />
+      <module name="AimsProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aims" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eec9f25-21ca-408f-abcf-6e29ffd5daf0" name="Changes" comment="" />
+      <created>1728354836268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728354836268</updated>
+      <workItem from="1729850632948" duration="362000" />
+      <workItem from="1729930090674" duration="2317000" />
+      <workItem from="1732553579308" duration="54000" />
+      <workItem from="1732553639584" duration="70000" />
+      <workItem from="1732554029595" duration="250000" />
+      <workItem from="1732645160292" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
